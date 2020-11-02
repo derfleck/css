@@ -1,0 +1,67 @@
+html, body
+{	
+	margin				: 0;
+	padding				: 0;
+}
+
+
+/*COLORS DEMOCRATS*/
+/*
+.dpa_app .color_par_us_1
+{
+	color 					: #253874;
+	fill 					: #253874;
+}
+
+.dpa_app .borderColor_par_us_1
+{
+	border-color 			: #253874;
+}
+
+.dpa_app .bg_par_us_1
+{
+	background-color    : #253874;
+}
+*/
+
+
+/*COLORS REPUBLICANS*/
+/*
+.dpa_app .color_par_us_2
+{
+	color 					: #BB201E;
+	fill 					: #BB201E;
+}
+
+.dpa_app .borderColor_par_us_2
+{
+	border-color 			: #BB201E;
+}
+
+.dpa_app .bg_par_us_2
+{
+	background-color    : #BB201E;
+}
+*/
+
+.dpa_app .dpa_body {
+	background-color: #ffffff;
+}
+
+
+/*REMOVE SHADOW*/
+/*
+.dpa_app .dpa_box {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+*/
+
+/* REDUCE HEIGHT OF WIDGET "Dates and Results" -> SCROLLBAR */
+/*
+.dpa_appSAVotingTimes .dpa_ranking-table .dpa_scroll
+{
+	height            : 400px;
+}
+*/
